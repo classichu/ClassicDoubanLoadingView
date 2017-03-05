@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.classichu.classicdoubanloadingview.MainActivity">
+
+    <com.classichu.doubanloadingview.DouBanSmileLoadingView
+        android:id="@+id/id_smile_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:smileColor="#ff669900"
+        app:smileCircleFrameHeight="6dp"
+        app:smileCircleRadius="22dp"
+        app:smileAutomatic="true"
+        app:smileHoldRotateCount="2"
+        />
+    <Button
+        android:id="@+id/id_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="start"
+
+        />
+    <Button
+        android:id="@+id/id_stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="stop"
+
+        />
+
+</LinearLayout>
