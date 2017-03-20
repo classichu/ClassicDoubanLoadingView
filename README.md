@@ -1,9 +1,9 @@
 # LouisDoubanLoadingView
 Douban Loading View 豆瓣 Loading 加载中...
 
-![image](https://raw.githubusercontent.com/louisgeek/LouisDoubanLoadingView/master/screenshots/douban_loading1.gif)
+![image](https://github.com/classichu/ClassicDoubanLoadingView/blob/master/screenshots/douban_loading1.gif)
 
-![image](https://raw.githubusercontent.com/louisgeek/LouisDoubanLoadingView/master/screenshots/douban_loading2.gif)
+![image](https://github.com/classichu/ClassicDoubanLoadingView/blob/master/screenshots/douban_loading1.gif)
 
 
 Step 1. Add the JitPack repository to your build file
