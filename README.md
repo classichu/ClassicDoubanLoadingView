@@ -3,7 +3,7 @@ Douban Loading View 豆瓣 Loading 加载中...
 
 ![image](https://github.com/classichu/ClassicDoubanLoadingView/blob/master/screenshots/douban_loading1.gif)
 
-![image](https://github.com/classichu/ClassicDoubanLoadingView/blob/master/screenshots/douban_loading1.gif)
+![image](https://github.com/classichu/ClassicDoubanLoadingView/blob/master/screenshots/douban_loading2.gif)
 
 
 Step 1. Add the JitPack repository to your build file
